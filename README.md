@@ -1,4 +1,4 @@
-#ChaChing 
+# ChaChing 
 
 Picture yourself in a store hoping to make a purchase. But you remembered that the car needed some servicing last week and you already spent a lot of money. Or maybe a friends birthday is coming up but rent is due. What does one do in such a challenging series of situations? Frankly scrambling to keep your finances in order by keeping reciepts in your wallet and struggling to remember every last purchase shouldn't be a challenge in todays world. 
 
